@@ -1,0 +1,44 @@
+{
+  "name": "@renatocostaguedesdemorais/devs-loop-mcp",
+  "version": "0.1.1",
+  "description": "Distributed MCP and CLI for devs-loop ClickUp automation",
+  "main": "cli.cjs",
+  "bin": {
+    "devs-loop": "cli.cjs",
+    "devs-loop-mcp": "cli.cjs"
+  },
+  "scripts": {
+    "start": "node cli.cjs server",
+    "cli": "node cli.cjs",
+    "mcp": "node cli.cjs server",
+    "server": "node cli.cjs server"
+  },
+  "files": [
+    "cli.cjs",
+    "mcp-server.cjs",
+    "README.md",
+    "devs-loop.md",
+    "config.json",
+    ".env.example",
+    "lib"
+  ],
+  "keywords": [
+    "clickup",
+    "task",
+    "automation",
+    "devtools",
+    "mcp",
+    "modelcontextprotocol"
+  ],
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.29.0",
+    "zod": "^4.3.6"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "workspace_id": "90132741067",
+  "default_list": "901324757272",
+  "project_lists": {
+    "ATRIO": "901325161395"
+  },
+  "default_priority": 2,
+  "default_status_start": "em andamento",
+  "default_status_done": "concluída",
+
+  "custom_fields": {
+    "tipos_tarefas": "47bc17d8-9160-438b-b6c4-46f4aa854b71",
+    "projeto_produto": "48eef4ff-8efe-45b9-8e36-1df95e012d67",
+    "tamanho_task": "a1a18bd9-9bb4-4feb-94da-9c4e330529f4",
+    "estrutura_projeto": "0b7d2dea-ce6b-44c7-8dca-fa24f633e69d",
+    "ok": "65c6c7c0-e59d-4fc7-8d9c-ba6219733c81"
+  },
+
+  "labels": {
+    "tipos_tarefas": {
+      "desenvolver": "f36db365-5ba7-4498-994c-d896383fda83",
+      "correcao": "6ed58317-8c0d-4314-a463-c49c236a849d",
+      "prototipacao": "76bef6a3-d27f-48b5-9cb0-a2ca6beec3cc",
+      "alteracao": "369fadf6-d2f0-4119-b7e6-502afd23b4c8",
+      "reunioes": "7357d0e4-fed2-46dc-8dcd-91f875cb8320",
+      "documentacao": "ab7b9a96-a698-40c4-8d43-968453dbdefa",
+      "suporte": "c5024e08-b720-4576-9cda-4ad8d8f723e3"
+    },
+    "tamanho": {
+      "P": "31cdbaf2-d4b2-40c8-b1d8-f72f8d14752e",
+      "M": "133f435e-cf11-4aa2-a834-5292114b94c3",
+      "G": "ab444a98-9439-4bfb-bf51-b7d704e67f4c"
+    },
+    "ok": {
+      "DEVOLVIDA": "5685db86-f3d0-475c-a43c-04b42f129baa",
+      "TAREFA_PAI": "4c8e08ae-4af3-4fa9-8159-abff501f8ffd",
+      "SUBTAREFAS": "5c9f75a4-6eac-403d-878e-85f23f88c20e"
+    },
+    "estrutura": {
+      "planejamento": "c0ba82c8-417d-4467-a263-eae95000591d",
+      "design": "ff0b8438-24d2-4be8-b9d7-ce1b76c64c35",
+      "desenvolvimento": "89e32233-93b1-4ccb-9735-8483ef8f1c2a",
+      "testes": "ee4e5cce-98f8-4e9a-a3b8-f4badebc6983",
+      "revisao": "34d18391-cc39-4959-90ea-472664ecfa08",
+      "deploy": "6d417c9e-71b3-465f-a869-775b99ac0b9f",
+      "reunioes": "7aeb191e-c00e-4856-8956-cf1acd83c99e"
+    }
+  },
+
+  "projetos": {
+    "AGREGAR": "ab533cff-badb-414b-b1ba-588ff152cfa4",
+    "ATRIO": "67eab773-6341-47f6-9b55-946250387258",
+    "GSS": "f12b5a09-e8d5-4fc6-a411-ec97117b1324",
+    "DAZE": "ae11c878-3dae-4642-bf05-01313ec4224c",
+    "MIDIA BRINDES": "314edf7b-ec91-4bbe-a383-499189aaee28",
+    "PRINCIPEÇAS": "1d47af66-af04-4591-b68d-30e654c69564",
+    "ROCKER JEANS": "c37f80d7-7fac-4a6b-accd-118b05fdbcd4",
+    "STAFF": "0df0ca8b-1202-41b6-b129-ae9e3aeae0fb",
+    "Hub Agregar": "3ae926d8-6720-49c2-ac13-c5649d3de437",
+    "Axion": "cf50cfd2-5732-4618-a6f5-a5aafb38d423",
+    "ALTERNATIVE": "e806d536-efab-4755-a91e-b85cc1b5c3db",
+    "ÂMBRO": "beb50268-4ce9-4253-ba3f-cbf9c4b8ecd0",
+    "AMR": "570bfa01-816c-4ee4-9e12-c8daaf19c284",
+    "SA LONAS": "888684ea-5469-4683-a8ed-f3466c258c37",
+    "L7 MARKETING": "6f9315f9-e2cc-4de0-9ab9-1c86c7c98dc1",
+    "MARI AMARAL": "ddb68e18-c7b0-4d3a-8414-986dafc8080c",
+    "PETRAQ": "b3e70f57-684f-43ef-8c42-b9963507c640",
+    "VIA MARMORES": "e74f2080-8df0-4c8d-9ae7-2c789f302cf4",
+    "ESTILLO": "862e368f-4877-484f-a1d2-b9fdf991bfd1",
+    "TECNOFORT": "4d9755c6-d562-4ae4-84ec-cf1bf2f2c211",
+    "MHZ": "1326c523-9561-48b4-be0e-03babd6341f5",
+    "GRUPO ARCEN": "0b08feeb-0022-4f27-b227-957bedec0945",
+    "VORTEX": "820f4b6d-212d-41cf-b62b-ebff36165951",
+    "SUPER VAIDOSA": "fba55d50-9fec-43c8-b40a-04c29c98f11b",
+    "MV REFRIGERAÇÃO": "08693b31-cea9-42ec-937d-802e5a7a9582",
+    "PNEUS NETO": "05a4bc10-119d-4128-bf19-cba66e04b655",
+    "MAGNÍFICA ROCHAS": "795fffe4-79d7-4f48-9a02-17dc3be69574",
+    "UPGROW": "a3b18e23-d632-4d7e-bb31-9f4d223732f2",
+    "EXCELÊNCIA ESPUMAS": "794772ee-f0e9-41c8-9f65-5888c0042ac1",
+    "AGROINOVA": "64af1506-59db-441a-a67d-ad8a709bbaa2",
+    "MIRELLA RABELO": "1d63faa9-0d64-4463-97d7-9ebe9fa4b269",
+    "AZUOS": "be029154-bba2-4f64-8131-41bd3ef433bb",
+    "LEITOR DOC'S": "839bff70-6202-4cfc-aa1a-3c6ffa2ac5a5",
+    "BPO": "8c6edcf2-ac3e-447f-a292-bbdc3253c307",
+    "BANCO DE DADOS": "dfb0f083-ce61-4a17-a6e2-3e7ac3904abd",
+    "FRAN MAKES": "333382df-fec5-4662-acaa-6279ee6892d8",
+    "LUD MÓVEIS": "ed0cbe31-0cf2-474c-802c-263f2b3d14e9",
+    "WENDELL BASTOS": "45123d10-9c92-4574-a8fa-1e5b0a3a0c4e",
+    "GOIANITA": "613c66d5-c53f-4b1b-bb56-799aa5b13019"
+  },
+
+  "task_type_mapping": {
+    "Feature":  { "label": "desenvolver",  "estrutura": "desenvolvimento" },
+    "Bug":      { "label": "correcao",     "estrutura": "desenvolvimento" },
+    "Infra":    { "label": "desenvolver",  "estrutura": "desenvolvimento" },
+    "QA":       { "label": "desenvolver",  "estrutura": "testes" },
+    "Refactor": { "label": "alteracao",    "estrutura": "desenvolvimento" },
+    "Doc":      { "label": "documentacao", "estrutura": null },
+    "Spike":    { "label": "desenvolver",  "estrutura": "planejamento" }
+  }
+}

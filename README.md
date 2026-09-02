@@ -166,3 +166,10 @@ Este pacote esta preparado para publish distribuivel:
 - binarios:
   - `devs-loop`
   - `devs-loop-mcp`
+
+## Status e validação
+
+- **Status:** versão `v1.0.0` publicada; pacote distribuível para uso local.
+- **Validação:** CI, CodeQL e Dependabot estão ativos; o CI atual foi revisado com sucesso.
+- **Segurança:** tokens e dados pessoais devem ser fornecidos somente por `.env` local. Os valores exibidos nos exemplos são placeholders.
+- **Limite:** o pacote não inclui credenciais, dados de clientes ou estado pessoal do desenvolvedor.
